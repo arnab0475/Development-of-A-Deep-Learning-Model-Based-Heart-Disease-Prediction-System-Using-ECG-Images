@@ -2,21 +2,6 @@
 
 This project demonstrates the use of Convolutional Neural Networks (CNNs) and Transfer Learning (VGG16) for classifying ECG (Electrocardiogram) images into different categories based on visual patterns. The model is trained and evaluated using the ECG_DATA dataset on Kaggle.
 
-📁 Dataset Structure
-bash
-Copy
-Edit
-ECG_DATA/
-├── train/
-│   ├── ClassA/
-│   ├── ClassB/
-│   └── ...
-└── test/
-    ├── ClassA/
-    ├── ClassB/
-    └── ...
-Each folder contains .png, .jpg, or .jpeg ECG image files.
-
 🧠 Project Workflow
 1. 📊 Data Exploration
 Loaded training and test ECG image data.
